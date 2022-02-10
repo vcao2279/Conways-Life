@@ -6,6 +6,7 @@ Over the course of this week, students will work on creating their own applicati
 
 [from Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Examples_of_patterns)
 
+[Project link])(https://vc-gameoflife.netlify.app)
 ## Objectives
 * Student should be able to create a unique, high-quality project that can be added to a professional portfolio
 * [Student should be able to describe the rules of Conway’s “Game of Life”](objectives/rules-game-life)
